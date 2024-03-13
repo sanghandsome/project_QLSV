@@ -13,6 +13,7 @@ namespace QLSV
     public partial class frmDsMHDky : Form
     {
         private string msv;
+        private string tukhoa = "";
 
         public frmDsMHDky(string msv)
         {
@@ -27,7 +28,12 @@ namespace QLSV
                 key = "@masinhvien",
                 value = msv,
             });
-         
+            lst.Add(new CustomParameter()
+            {
+                key = "@tukhoa",
+                value = tukhoa
+            });
+
             dgvDsMHDky.DataSource = new Database().SelectData("monDangDKy", lst);
             dgvDsMHDky.Columns["malophoc"].HeaderText = "Mã Lớp Học";
             dgvDsMHDky.Columns["tenmonhoc"].HeaderText = "Tên Môn Học";
@@ -60,7 +66,7 @@ namespace QLSV
 
         private void btnTimkiem_Click(object sender, EventArgs e)
         {
-           
+            tukhoa = txtTimkiem.Text;
             LoadDsMHDky();
         }
 

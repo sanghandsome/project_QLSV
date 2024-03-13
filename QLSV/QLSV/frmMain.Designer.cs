@@ -38,8 +38,10 @@
             giaoVienToolStripMenuItem = new ToolStripMenuItem();
             monHocToolStripMenuItem = new ToolStripMenuItem();
             lopHocToolStripMenuItem = new ToolStripMenuItem();
-            dkMonhocToolStripMenuItem = new ToolStripMenuItem();
-            ChamDiemToolStripMenuItem = new ToolStripMenuItem();
+            chucNangToolStripMenuItem = new ToolStripMenuItem();
+            dangkiToolStripMenuItem = new ToolStripMenuItem();
+            traCuuDiemToolStripMenuItem = new ToolStripMenuItem();
+            QuanliToolStripMenuItem = new ToolStripMenuItem();
             pnlContent = new Panel();
             menuStrip1.SuspendLayout();
             SuspendLayout();
@@ -47,7 +49,7 @@
             // menuStrip1
             // 
             menuStrip1.ImageScalingSize = new Size(20, 20);
-            menuStrip1.Items.AddRange(new ToolStripItem[] { heThongToolStripMenuItem, toolStripMenuItem1, quanLyToolStripMenuItem, dkMonhocToolStripMenuItem, ChamDiemToolStripMenuItem });
+            menuStrip1.Items.AddRange(new ToolStripItem[] { heThongToolStripMenuItem, toolStripMenuItem1, quanLyToolStripMenuItem, chucNangToolStripMenuItem, QuanliToolStripMenuItem });
             menuStrip1.Location = new Point(0, 0);
             menuStrip1.Name = "menuStrip1";
             menuStrip1.Size = new Size(1260, 28);
@@ -114,18 +116,34 @@
             lopHocToolStripMenuItem.Text = "Lớp Học";
             lopHocToolStripMenuItem.Click += lopHocToolStripMenuItem_Click;
             // 
-            // dkMonhocToolStripMenuItem
+            // chucNangToolStripMenuItem
             // 
-            dkMonhocToolStripMenuItem.Name = "dkMonhocToolStripMenuItem";
-            dkMonhocToolStripMenuItem.Size = new Size(136, 24);
-            dkMonhocToolStripMenuItem.Text = "Đăng kí môn học";
-            dkMonhocToolStripMenuItem.Click += dkMonhocToolStripMenuItem_Click;
+            chucNangToolStripMenuItem.DropDownItems.AddRange(new ToolStripItem[] { dangkiToolStripMenuItem, traCuuDiemToolStripMenuItem });
+            chucNangToolStripMenuItem.Name = "chucNangToolStripMenuItem";
+            chucNangToolStripMenuItem.Size = new Size(93, 24);
+            chucNangToolStripMenuItem.Text = "Chức năng";
+            chucNangToolStripMenuItem.Click += dkMonhocToolStripMenuItem_Click;
             // 
-            // ChamDiemToolStripMenuItem
+            // dangkiToolStripMenuItem
             // 
-            ChamDiemToolStripMenuItem.Name = "ChamDiemToolStripMenuItem";
-            ChamDiemToolStripMenuItem.Size = new Size(101, 24);
-            ChamDiemToolStripMenuItem.Text = "Chấm Điểm";
+            dangkiToolStripMenuItem.Name = "dangkiToolStripMenuItem";
+            dangkiToolStripMenuItem.Size = new Size(205, 26);
+            dangkiToolStripMenuItem.Text = "Đăng kí môn học";
+            dangkiToolStripMenuItem.Click += dangkiToolStripMenuItem_Click;
+            // 
+            // traCuuDiemToolStripMenuItem
+            // 
+            traCuuDiemToolStripMenuItem.Name = "traCuuDiemToolStripMenuItem";
+            traCuuDiemToolStripMenuItem.Size = new Size(205, 26);
+            traCuuDiemToolStripMenuItem.Text = "Tra cứu điểm";
+            traCuuDiemToolStripMenuItem.Click += traCuuDiemToolStripMenuItem_Click;
+            // 
+            // QuanliToolStripMenuItem
+            // 
+            QuanliToolStripMenuItem.Name = "QuanliToolStripMenuItem";
+            QuanliToolStripMenuItem.Size = new Size(96, 24);
+            QuanliToolStripMenuItem.Text = "Quản lí lớp";
+            QuanliToolStripMenuItem.Click += ChamDiemToolStripMenuItem_Click;
             // 
             // pnlContent
             // 
@@ -166,7 +184,9 @@
         private ToolStripMenuItem monHocToolStripMenuItem;
         private Panel pnlContent;
         private ToolStripMenuItem lopHocToolStripMenuItem;
-        private ToolStripMenuItem dkMonhocToolStripMenuItem;
-        private ToolStripMenuItem ChamDiemToolStripMenuItem;
+        private ToolStripMenuItem chucNangToolStripMenuItem;
+        private ToolStripMenuItem QuanliToolStripMenuItem;
+        private ToolStripMenuItem dangkiToolStripMenuItem;
+        private ToolStripMenuItem traCuuDiemToolStripMenuItem;
     }
 }

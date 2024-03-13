@@ -25,6 +25,9 @@
     <Compile Update="frmGV.cs">
       <SubType>Form</SubType>
     </Compile>
+    <Compile Update="frmKetQuaHocTap.cs">
+      <SubType>Form</SubType>
+    </Compile>
     <Compile Update="frmLopHoc.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -32,6 +35,9 @@
       <SubType>Form</SubType>
     </Compile>
     <Compile Update="frmMonHoc.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frmQuanLyLop.cs">
       <SubType>Form</SubType>
     </Compile>
     <Compile Update="frmSinhVien.cs">

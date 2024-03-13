@@ -3,23 +3,15 @@
   "WorkspaceRootPath": "C:\\Users\\nguye\\OneDrive\\M\u00E1y t\u00EDnh\\WORKSPACE\\QLSV\\QLSV\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{FC5CFDDF-7982-4DA5-AC97-88D31C5E95BC}|QLSV\\QLSV.csproj|C:\\Users\\nguye\\OneDrive\\M\u00E1y t\u00EDnh\\WORKSPACE\\QLSV\\QLSV\\qlsv\\frmdsmhdky.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{FC5CFDDF-7982-4DA5-AC97-88D31C5E95BC}|QLSV\\QLSV.csproj|solutionrelative:qlsv\\frmdsmhdky.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{FC5CFDDF-7982-4DA5-AC97-88D31C5E95BC}|QLSV\\QLSV.csproj|c:\\users\\nguye\\onedrive\\m\u00E1y t\u00EDnh\\workspace\\qlsv\\qlsv\\qlsv\\frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{FC5CFDDF-7982-4DA5-AC97-88D31C5E95BC}|QLSV\\QLSV.csproj|solutionrelative:qlsv\\frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FC5CFDDF-7982-4DA5-AC97-88D31C5E95BC}|QLSV\\QLSV.csproj|c:\\users\\nguye\\onedrive\\m\u00E1y t\u00EDnh\\workspace\\qlsv\\qlsv\\qlsv\\frmdslhchuadky.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FC5CFDDF-7982-4DA5-AC97-88D31C5E95BC}|QLSV\\QLSV.csproj|solutionrelative:qlsv\\frmdslhchuadky.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{FC5CFDDF-7982-4DA5-AC97-88D31C5E95BC}|QLSV\\QLSV.csproj|C:\\Users\\nguye\\OneDrive\\M\u00E1y t\u00EDnh\\WORKSPACE\\QLSV\\QLSV\\qlsv\\frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC5CFDDF-7982-4DA5-AC97-88D31C5E95BC}|QLSV\\QLSV.csproj|solutionrelative:qlsv\\frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FC5CFDDF-7982-4DA5-AC97-88D31C5E95BC}|QLSV\\QLSV.csproj|c:\\users\\nguye\\onedrive\\m\u00E1y t\u00EDnh\\workspace\\qlsv\\qlsv\\qlsv\\frmdslhchuadky.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{FC5CFDDF-7982-4DA5-AC97-88D31C5E95BC}|QLSV\\QLSV.csproj|solutionrelative:qlsv\\frmdslhchuadky.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FC5CFDDF-7982-4DA5-AC97-88D31C5E95BC}|QLSV\\QLSV.csproj|c:\\users\\nguye\\onedrive\\m\u00E1y t\u00EDnh\\workspace\\qlsv\\qlsv\\qlsv\\frmdsmhdky.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FC5CFDDF-7982-4DA5-AC97-88D31C5E95BC}|QLSV\\QLSV.csproj|solutionrelative:qlsv\\frmdsmhdky.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FC5CFDDF-7982-4DA5-AC97-88D31C5E95BC}|QLSV\\QLSV.csproj|c:\\users\\nguye\\onedrive\\m\u00E1y t\u00EDnh\\workspace\\qlsv\\qlsv\\qlsv\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{FC5CFDDF-7982-4DA5-AC97-88D31C5E95BC}|QLSV\\QLSV.csproj|C:\\Users\\nguye\\OneDrive\\M\u00E1y t\u00EDnh\\WORKSPACE\\QLSV\\QLSV\\qlsv\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{FC5CFDDF-7982-4DA5-AC97-88D31C5E95BC}|QLSV\\QLSV.csproj|solutionrelative:qlsv\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -34,25 +26,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 3,
               "Title": "Database.cs",
               "DocumentMoniker": "C:\\Users\\nguye\\OneDrive\\M\u00E1y t\u00EDnh\\WORKSPACE\\QLSV\\QLSV\\QLSV\\Database.cs",
               "RelativeDocumentMoniker": "QLSV\\Database.cs",
               "ToolTip": "C:\\Users\\nguye\\OneDrive\\M\u00E1y t\u00EDnh\\WORKSPACE\\QLSV\\QLSV\\QLSV\\Database.cs",
               "RelativeToolTip": "QLSV\\Database.cs",
-              "ViewState": "AQIAABsAAAAAAAAAAAAcwFMAAAAnAAAA",
+              "ViewState": "AQIAAD0AAAAAAAAAAAAmwFMAAAAnAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-03-08T10:07:36.536Z",
-              "IsPinned": true,
-              "EditorCaption": ""
+              "IsPinned": true
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\nguye\\OneDrive\\M\u00E1y t\u00EDnh\\WORKSPACE\\QLSV\\QLSV\\QLSV\\Program.cs",
               "RelativeDocumentMoniker": "QLSV\\Program.cs",
@@ -61,33 +52,7 @@
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAOAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-03-11T09:38:38.003Z",
-              "IsPinned": true,
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "frmDSLHChuaDky.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\nguye\\OneDrive\\M\u00E1y t\u00EDnh\\WORKSPACE\\QLSV\\QLSV\\QLSV\\frmDSLHChuaDky.cs",
-              "RelativeDocumentMoniker": "QLSV\\frmDSLHChuaDky.cs",
-              "ToolTip": "C:\\Users\\nguye\\OneDrive\\M\u00E1y t\u00EDnh\\WORKSPACE\\QLSV\\QLSV\\QLSV\\frmDSLHChuaDky.cs [Design]",
-              "RelativeToolTip": "QLSV\\frmDSLHChuaDky.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-11T09:27:10.147Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "frmDSLHChuaDky.cs",
-              "DocumentMoniker": "C:\\Users\\nguye\\OneDrive\\M\u00E1y t\u00EDnh\\WORKSPACE\\QLSV\\QLSV\\QLSV\\frmDSLHChuaDky.cs",
-              "RelativeDocumentMoniker": "QLSV\\frmDSLHChuaDky.cs",
-              "ToolTip": "C:\\Users\\nguye\\OneDrive\\M\u00E1y t\u00EDnh\\WORKSPACE\\QLSV\\QLSV\\QLSV\\frmDSLHChuaDky.cs",
-              "RelativeToolTip": "QLSV\\frmDSLHChuaDky.cs",
-              "ViewState": "AQIAADkAAAAAAAAAAAAWwC0AAABeAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-11T09:29:01.126Z",
-              "EditorCaption": ""
+              "IsPinned": true
             },
             {
               "$type": "Bookmark",
@@ -95,28 +60,28 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "frmDsMHDKy.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\nguye\\OneDrive\\M\u00E1y t\u00EDnh\\WORKSPACE\\QLSV\\QLSV\\QLSV\\frmDsMHDKy.cs",
-              "RelativeDocumentMoniker": "QLSV\\frmDsMHDKy.cs",
-              "ToolTip": "C:\\Users\\nguye\\OneDrive\\M\u00E1y t\u00EDnh\\WORKSPACE\\QLSV\\QLSV\\QLSV\\frmDsMHDKy.cs [Design]",
-              "RelativeToolTip": "QLSV\\frmDsMHDKy.cs [Design]",
+              "DocumentIndex": 1,
+              "Title": "frmMain.cs",
+              "DocumentMoniker": "C:\\Users\\nguye\\OneDrive\\M\u00E1y t\u00EDnh\\WORKSPACE\\QLSV\\QLSV\\QLSV\\frmMain.cs",
+              "RelativeDocumentMoniker": "QLSV\\frmMain.cs",
+              "ToolTip": "C:\\Users\\nguye\\OneDrive\\M\u00E1y t\u00EDnh\\WORKSPACE\\QLSV\\QLSV\\QLSV\\frmMain.cs",
+              "RelativeToolTip": "QLSV\\frmMain.cs",
+              "ViewState": "AQIAAFkAAAAAAAAAAAAWwGYAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-10T08:19:33.99Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2024-03-13T09:28:26.721Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "frmDsMHDKy.cs",
-              "DocumentMoniker": "C:\\Users\\nguye\\OneDrive\\M\u00E1y t\u00EDnh\\WORKSPACE\\QLSV\\QLSV\\QLSV\\frmDsMHDKy.cs",
-              "RelativeDocumentMoniker": "QLSV\\frmDsMHDKy.cs",
-              "ToolTip": "C:\\Users\\nguye\\OneDrive\\M\u00E1y t\u00EDnh\\WORKSPACE\\QLSV\\QLSV\\QLSV\\frmDsMHDKy.cs",
-              "RelativeToolTip": "QLSV\\frmDsMHDKy.cs",
-              "ViewState": "AQIAADYAAAAAAAAAAAD4vyYAAABjAAAA",
+              "DocumentIndex": 0,
+              "Title": "frmMain.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\nguye\\OneDrive\\M\u00E1y t\u00EDnh\\WORKSPACE\\QLSV\\QLSV\\QLSV\\frmMain.cs",
+              "RelativeDocumentMoniker": "QLSV\\frmMain.cs",
+              "ToolTip": "C:\\Users\\nguye\\OneDrive\\M\u00E1y t\u00EDnh\\WORKSPACE\\QLSV\\QLSV\\QLSV\\frmMain.cs [Design]",
+              "RelativeToolTip": "QLSV\\frmMain.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-10T10:44:27.082Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-13T09:26:40.017Z",
+              "EditorCaption": " [Design]"
             }
           ]
         }

@@ -75,3 +75,6 @@ C:\Users\nguye\OneDrive\Máy tính\WORKSPACE\QLSV\QLSV\QLSV\obj\Debug\net8.0-win
 C:\Users\nguye\OneDrive\Máy tính\WORKSPACE\QLSV\QLSV\QLSV\obj\Debug\net8.0-windows7.0\QLSV.frmDangNhap.resources
 C:\Users\nguye\OneDrive\Máy tính\WORKSPACE\QLSV\QLSV\QLSV\obj\Debug\net8.0-windows7.0\QLSV.frmDsMHDky.resources
 C:\Users\nguye\OneDrive\Máy tính\WORKSPACE\QLSV\QLSV\QLSV\obj\Debug\net8.0-windows7.0\QLSV.frmDSLHChuaDky.resources
+C:\Users\nguye\OneDrive\Máy tính\WORKSPACE\QLSV\QLSV\QLSV\obj\Debug\net8.0-windows7.0\QLSV.sourcelink.json
+C:\Users\nguye\OneDrive\Máy tính\WORKSPACE\QLSV\QLSV\QLSV\obj\Debug\net8.0-windows7.0\QLSV.frmKetQuaHocTap.resources
+C:\Users\nguye\OneDrive\Máy tính\WORKSPACE\QLSV\QLSV\QLSV\obj\Debug\net8.0-windows7.0\QLSV.frmQuanLyLop.resources

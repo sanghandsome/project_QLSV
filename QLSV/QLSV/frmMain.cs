@@ -15,11 +15,11 @@ namespace QLSV
 
             tk = fn.tendangnhap;
             loaitk = fn.loaitk;
-           
+
             if (loaitk.Equals("admin"))
             {
-                dkMonhocToolStripMenuItem.Visible = false;
-                ChamDiemToolStripMenuItem.Visible = false;
+                chucNangToolStripMenuItem.Visible = false;
+                QuanliToolStripMenuItem.Visible = false;
             }
             else
             {
@@ -28,12 +28,12 @@ namespace QLSV
             if (loaitk.Equals("gv"))
             {
                 quanLyToolStripMenuItem.Visible = false;
-                dkMonhocToolStripMenuItem.Visible = false;
+                chucNangToolStripMenuItem.Visible = false;
 
             }
             else
             {
-                ChamDiemToolStripMenuItem.Visible = false;
+                QuanliToolStripMenuItem.Visible = false;
             }
 
         }
@@ -81,7 +81,24 @@ namespace QLSV
 
         private void dkMonhocToolStripMenuItem_Click(object sender, EventArgs e)
         {
+
+        }
+
+        private void dangkiToolStripMenuItem_Click(object sender, EventArgs e)
+        {
             frmDsMHDky f = new frmDsMHDky(tk);
+            AddForm(f);
+        }
+
+        private void traCuuDiemToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            frmKetQuaHocTap f = new frmKetQuaHocTap(tk);
+            AddForm(f);
+        }
+
+        private void ChamDiemToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            frmQuanLyLop f = new frmQuanLyLop(tk);
             AddForm(f);
         }
     }
